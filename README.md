@@ -11,13 +11,11 @@ Including historical behavior data of 685 high-risk users (spammer) on the Weibo
 **Source Paper**: Zhang H, Yang Z, Pang Y. A Model for Spammer Detection Inspired by Video Classification Technology[C]. 2025 International Joint Conference on Neural Networks (IJCNN), Accepted.
 
 ```
-@article{yang2024model,
-  title={A model for early rumor detection base on topic-derived domain compensation and multi-user association},
-  author={Yang, Zhou and Pang, Yucai and Li, Qian and Wei, Shihong and Wang, Rong and Xiao, Yunpeng},
-  journal={Expert Systems with Applications},
-  pages={123951},
-  year={2024},
-  publisher={Elsevier}
+@article{zhang2025model,
+  title={A Model for Spammer Detection Inspired by Video Classification Technology},
+  author={Zhang, Haoyang and Yang, Zhou and Pang, Yucai},
+  journal={2025 International Joint Conference on Neural Networks},
+  year={2025}
 }
 ```
 
